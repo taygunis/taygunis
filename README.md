@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taygunis
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning trade, testnet, launchpad
+- 🌱 I’m currently learning trade, testnet, launchpad, node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taygunis@gmail.com
 <!---
